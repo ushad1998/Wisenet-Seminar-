@@ -1,2 +1,3 @@
 # Wisenet-Seminar-
-Wisenet Repoet
+Wisenet Report
+The Wisenet Report is a comprehensive analysis tool designed to provide detailed insights into surveillance data collected by Wisenet cameras and security systems. It compiles and presents information such as event logs, motion detection occurrences, and system performance metrics. The report can include visual aids like graphs and charts to help users easily interpret the data. This tool aids in security management by identifying trends, potential security breaches, and areas needing improvement. Additionally, the Wisenet Report can be customized to focus on specific parameters, ensuring that stakeholders receive relevant and actionable information to enhance their surveillance operations.
